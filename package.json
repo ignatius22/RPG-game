@@ -1,10 +1,13 @@
 {
-  "name": "rpg-game",
+  "name": "adventurer",
   "version": "1.0.0",
-  "description": "This is Adventure RPG game where the warrior is randomly place at different level of the tilesmap at the start of each game. The warrior must kill the monsters, get the treasure box to get more gold.",
+  "private": true,
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack-dev-server  --config webpack.dev.js --open",
+    "build": "webpack --config webpack.prod.js",
+    "test": "jest"
   },
   "jest": {
     "setupFiles": [
@@ -23,15 +26,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ignatius22/RPG-game.git"
+    "url": "git+https://github.com/Eshy10/Adventurer.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ignatius22/RPG-game/issues"
+    "url": "https://github.com/Eshy10/Adventurer/issues"
   },
-  "homepage": "https://github.com/ignatius22/RPG-game#readme",
+  "homepage": "https://github.com/Eshy10/Adventurer#readme",
   "devDependencies": {
     "@babel/core": "^7.10.5",
     "@babel/preset-env": "^7.11.0",
