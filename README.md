@@ -32,7 +32,7 @@ This is Adventure RPG game where the warrior is randomly place at different leve
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/ignatius22/Restuarant-page.git
+$ git clone https://github.com/ignatius22/RPG-game
 
 # Go into the repository
 $ cd Restuarant-page
