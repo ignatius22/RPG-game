@@ -2,7 +2,7 @@
 > This is adventure rpg game where the warrior is randomly place at different level of the tilesmap at the start of each game. The warrior must kill the monsters, get the treasure box to get more gold. 
 
 - Screenshot
-![alt text](interface.png)
+![alt text](./interface.png)
 
 ## Game Design and Development
 - Day1: RPG Game Tutorial on Zenva Academy(Inspiration of the game was gotten from there)
