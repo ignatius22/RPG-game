@@ -26,15 +26,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Eshy10/Adventurer.git"
+    "url": "git+ignatius22/RPG-game.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Eshy10/Adventurer/issues"
+    "url": "https://ignatius22/RPG-game/issues"
   },
-  "homepage": "https://github.com/Eshy10/Adventurer#readme",
+  "homepage": "https://ignatius22/RPG-game#readme",
   "devDependencies": {
     "@babel/core": "^7.10.5",
     "@babel/preset-env": "^7.11.0",

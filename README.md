@@ -1,4 +1,4 @@
-# Adventurer
+# RPG GAME
 > This is adventure rpg game where the warrior is randomly place at different level of the tilesmap at the start of each game. The warrior must kill the monsters, get the treasure box to get more gold. 
 
 ![rpgg](https://user-images.githubusercontent.com/52670459/90983823-d02a1600-e568-11ea-9b89-7b5fa121d0ca.png)
@@ -64,17 +64,17 @@
 
 ## Author
 
-👤 **Shola**
+👤 **Ignatius Sani**
 
-- Github: [@Eshy10](https://github.com/Eshy10)
-- Twitter: [@AdesholaAdewal6](https://twitter.com/AdesholaAdewal6)
-- Linkedin: [Adeshola Adewale ](https://www.linkedin.com/in/adewale-adeshola/)
+- Github: [@ignatius22](https://github.com/ignatius22)
+- Twitter: [@iggy_code](https://twitter.com/iggy_code)
+- Linkedin: [Ignatius Sani ](https://www.linkedin.com/in/ignatiussani)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/ignatius22/RPG-game).
 
 ## Show your support
 
