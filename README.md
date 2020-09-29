@@ -1,7 +1,8 @@
 # RPG GAME
 > This is adventure rpg game where the warrior is randomly place at different level of the tilesmap at the start of each game. The warrior must kill the monsters, get the treasure box to get more gold. 
 
-![rpgg](https://user-images.githubusercontent.com/52670459/90983823-d02a1600-e568-11ea-9b89-7b5fa121d0ca.png)
+- Screenshot
+![alt text](interface.png)
 
 ## Game Design and Development
 - Day1: RPG Game Tutorial on Zenva Academy(Inspiration of the game was gotten from there)
@@ -30,7 +31,7 @@
 - The warrior must be quick to fight the monsters so that he doesn't lose his healthbar.
 - The game is over if the warrior healthbar is empty.
 - If the game over it takes you to screen where you can add your scores to the leaderboard click on the button submit to add your name to the leaderboard.
-- [Play online here](  https://adventurerr.netlify.app)
+- [Play online here](  https://fervent-euclid-f779d4.netlify.app/)
 
 ## Future Features
 - Add mobile friendliness.
@@ -50,7 +51,7 @@
 
 ## Live Demo
 
-[Live Demo Link]( https://adventurerr.netlify.app)
+[Live Demo Link]( https://fervent-euclid-f779d4.netlify.app/)
 
 ## How to Install
 
@@ -83,7 +84,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - [Phaser ]( https://phaser.io/)
-- [ Openweathermap ]( https://adventurerr.netlify.app) image assets
+- [ Openweathermap ]( https://fervent-euclid-f779d4.netlify.app/) image assets
 - [Zenva Academy]( https://academy.zenva.com/?zva_src=https://gamedevacademy.org) rpg game tutorial
 - [Craftpix ]( https://craftpix.net/) Background Image
 
