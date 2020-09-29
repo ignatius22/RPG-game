@@ -2,6 +2,8 @@
 > This is adventure rpg game where the warrior is randomly place at different level of the tilesmap at the start of each game. The warrior must kill the monsters, get the treasure box to get more gold. 
 
 - Screenshot
+![alt text](start.png)
+
 ![alt text](Interface.png)
 
 ## Game Design and Development
