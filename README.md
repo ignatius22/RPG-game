@@ -9,10 +9,10 @@
 ## Game Design and Development
 - Day1: RPG Game Tutorial on Zenva Academy(Inspiration of the game was gotten from there)
 - Day2: Game background design using tilesmap editor. Blocked layers(areas in the background we don't want the players to collide with) and game objects such as the players, treasure box and monsters was added while designing on the map editor and the background image was exported in a json file.
-- Day3: Game initial template setup was gotten Zenva Academy. it was modify to add extra features to enhance the game.
-- Day4: The game logic is made up of the following:
+- Day3: Game initial template setup was gotten Zenva Academy. it was modify to add some extra features to enhance the game.
+- Day4: The game logic consists of the following:
 - The warrior who is the player of the game appear at different locations of the gamescene at the start of a new game.
-- There are blocked layers more like obstacles so the player does not move freely in the tilemap or background just increase the complexity.
+- There are blocked layers more like obstacles so that the player does not move freely in the tilemap or background just to increase the complexity.
 - The monsters and the treasure box spawn at different location of the game.
 - The warrior must collect the treasure box to get more gold.
 - The warrior get more health bar and gold by fighting the monsters with his sword. The sword can be gotten by pressing the spacebar of your keyboard.

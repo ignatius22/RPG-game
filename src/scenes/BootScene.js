@@ -1,4 +1,4 @@
-import 'phaser';
+import Phaser from 'phaser';
 import logoImage from '../../assets/adventure.png';
 import backgroundTiled from '../../assets/level/background-extruded.png';
 import items from '../../assets/items.png';
@@ -9,7 +9,7 @@ import EnemyDeath from '../../assets/audio/EnemyDeath.wav';
 import playerAttack from '../../assets/audio/PlayerAttack.wav';
 import playerDamage from '../../assets/audio/PlayerDamage.wav';
 import playerDeath from '../../assets/audio/PlayerDeath.wav';
-/* eslint-disable no-undef */
+
 
 const jsonMap = require('../../assets/level/forestland.json');
 
