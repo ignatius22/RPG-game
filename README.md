@@ -59,11 +59,10 @@
 
 > Follow the commands below
 - git clone
-- cd Adventurer
+- cd rpg-game
 - npm install
 - npm start
 
- - run npm start
 
 ## Author
 
